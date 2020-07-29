@@ -1,6 +1,7 @@
-# my_todo_app
+# Simple todo app
 
-todo app .
+Add want ever you want to do or buy.check them or dismiss them.
+created with Provider.
 
 ## Getting Started
 
