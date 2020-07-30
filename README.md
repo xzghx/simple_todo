@@ -3,6 +3,8 @@
 Add want ever you want to do or buy.check them or dismiss them.
 created with Provider.
 
+![gif_of_project](https://github.com/xzghx/simple_todo/blob/master/logo/todoGif.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
